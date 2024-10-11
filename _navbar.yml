@@ -1,0 +1,7 @@
+navbar:
+  title: "Navegación"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Sobre mí"
+      href: sobre-mi.html
