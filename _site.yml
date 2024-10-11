@@ -4,8 +4,7 @@ navbar:
   left:
     - text: "Inicio"
       href: index.html
-    - text: "Proyectos"
-      href: proyecto1.html
-    - text: "Contacto"
-      href: contacto.html
+    - text: "XSS"
+      href: xss.html
+    
 theme: cosmo
