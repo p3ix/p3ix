@@ -1,10 +1,4 @@
-name: "Mi sitio de apuntes"
-navbar:
-  title: "Mis apuntes"
-  left:
-    - text: "Inicio"
-      href: index.html
-    - text: "XSS"
-      href: xss.html
-    
+name: "Mi Sitio"
+output_dir: "docs"
+navbar: _navbar.yml
 theme: cosmo
