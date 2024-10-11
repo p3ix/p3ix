@@ -1,0 +1,11 @@
+name: "Mi sitio de apuntes"
+navbar:
+  title: "Mis apuntes"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Proyectos"
+      href: proyecto1.html
+    - text: "Contacto"
+      href: contacto.html
+theme: cosmo
