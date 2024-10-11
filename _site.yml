@@ -1,4 +1,3 @@
 name: "Mi Sitio"
-output_dir: "docs"
 navbar: _navbar.yml
 theme: cosmo
